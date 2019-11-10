@@ -4,3 +4,6 @@ nlp_assignment/
 
 #Ignore mapping
 *.pkl
+
+#Ignore model
+*.h5
