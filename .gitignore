@@ -1,5 +1,6 @@
 # Ignore dataset
 dataset/
+nlp_assignment/
 
 #Ignore mapping
 *.pkl
