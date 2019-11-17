@@ -1,9 +1,8 @@
 # Ignore dataset
 dataset/
-nlp_assignment/
 
 #Ignore mapping
-*.pkl
+#*.pkl
 
 #Ignore model
-*.h5
+#*.h5
