@@ -1,5 +1,5 @@
-# NLP_Projects
-NLP Projects Lab
+# NLP Projects
+NLP Projects Lab - Learn & Experiment NLP
 
 # /demo/
 * Basic nltk Demos - using NLP Toolkit
