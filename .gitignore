@@ -1,0 +1,8 @@
+# Ignore dataset
+dataset/
+
+#Ignore mapping
+#*.pkl
+
+#Ignore model
+#*.h5
